@@ -1,4 +1,4 @@
-# NExT
+# N3xT
 Digital personal assistant
 
 # Plugins
