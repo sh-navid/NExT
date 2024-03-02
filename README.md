@@ -1,1 +1,2 @@
-# OpenAssistant
+# NExT
+Personal digital assistant
