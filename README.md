@@ -1,2 +1,2 @@
 # NExT
-Personal digital assistant
+Digital personal assistant
