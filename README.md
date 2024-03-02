@@ -1,6 +1,12 @@
 # NExT
 Digital personal assistant
 
+```mermaid
+graph TD;
+    Input-->Text;
+    Text-->Process;
+```
+
 ## Plugins
   - Firewall
   - Chatbot
