@@ -7,20 +7,12 @@ Digital personal assistant
 ```mermaid
 flowchart LR
 
-    Audio-->String;
-    Video-->String;
-    Text-->String;
+A1[Text]  -->|Text| B(Round)
+A2[Video] -->|Text| B(Round)
+A3[Audio] -->|Text| B(Round)
 
-    String-->Tokenize;
-    Tokenize-->Train;
-    Train-->Knowledge;
-
-    Train-->D {Decision};
-
-    D {Decision}-->Plugin;
-    D {Decision}-->Driver;
-    D {Decision}-->Luncher;
-    D {Decision}-->Widget;
+B --> C{Decision}
+C -->|-| 1[Luncher]
 ```
 
 ## Plugins
