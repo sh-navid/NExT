@@ -6,7 +6,9 @@ Digital personal assistant
 
 ```mermaid
 graph TD;
-    Input-->Text;
+    Audio-->Text;
+    Video-->Text;
+    Text-->Text;
     Text-->Process;
 ```
 
