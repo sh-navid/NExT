@@ -15,13 +15,12 @@ flowchart LR
     Tokenize-->Train;
     Train-->Knowledge;
 
-    Knowledge-->{Decision};
+    Train-->D {Decision};
 
-    Decision-->Knowledge;
-    Decision-->Plugin;
-    Decision-->Driver;
-    Decision-->Luncher;
-    Decision-->Widget;
+    D {Decision}-->Plugin;
+    D {Decision}-->Driver;
+    D {Decision}-->Luncher;
+    D {Decision}-->Widget;
 ```
 
 ## Plugins
