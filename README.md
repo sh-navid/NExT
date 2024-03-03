@@ -7,9 +7,9 @@ Digital personal assistant
 ```mermaid
 flowchart LR
 
-A1[Text]  -->| | B(Round)
-A2[Video] -->| | B(Round)
-A3[Audio] -->| | B(Round)
+A1[Text]  -->| | B(String)
+A2[Video] -->| | B(String)
+A3[Audio] -->| | B(String)
 
 B --> C{Decision}
 C -->| | D1[Luncher]
