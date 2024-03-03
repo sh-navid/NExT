@@ -6,10 +6,10 @@ Digital personal assistant
 
 ```mermaid
 graph TD;
-    Audio-->Text;
-    Video-->Text;
-    Text-->Text;
-    Text-->Process;
+    Audio-->String;
+    Video-->String;
+    Text-->String;
+    String-->Tokenize;
 ```
 
 ## Plugins
