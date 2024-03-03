@@ -12,7 +12,6 @@ A2[Video] -->| | B(String)
 A3[Audio] -->| | B(String)
 
 B -->| | T(Tokenize)
-B -->| | T(Tokenize)
 
 T --> L[ML engine]
 
@@ -39,3 +38,4 @@ C -->| | D4[Driver]
   - Documentation
     - [Simple](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [Advanced](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+    - [Mermaid](https://github.com/mermaid-js/mermaid)
