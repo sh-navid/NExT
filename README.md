@@ -14,8 +14,10 @@ A3[Audio] -->| | B(String)
 B -->| | T(Tokenize)
 
 T --> L[ML engine]
+L --> I
+T --> I[Identifier]
 
-T --> C{Decision}
+I --> C{Decision}
 C -->| | D1[Luncher]
 C -->| | D2[Widget]
 C -->| | D3[Plugin]
