@@ -12,8 +12,10 @@ flowchart LR
     Text-->String;
 
     String-->Tokenize;
-    Tokenize-->Decision;
-    Knowledge-->Decision;
+    Tokenize-->Train;
+    Train-->Knowledge;
+
+    Knowledge-->{Decision};
 
     Decision-->Knowledge;
     Decision-->Plugin;
