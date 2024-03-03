@@ -1,6 +1,9 @@
 # NExT
 Digital personal assistant
 
+> [!Tip]
+> Test tip
+
 ```mermaid
 graph TD;
     Input-->Text;
