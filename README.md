@@ -7,7 +7,6 @@ Digital personal assistant
 ```mermaid
 flowchart LR
 
-graph TD;
     Audio-->String;
     Video-->String;
     Text-->String;
