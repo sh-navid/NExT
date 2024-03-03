@@ -11,6 +11,8 @@ A1[Text]  -->| | B(String)
 A2[Video] -->| | B(String)
 A3[Audio] -->| | B(String)
 
+B --> Tokenize
+
 B --> C{Decision}
 C -->| | D1[Luncher]
 C -->| | D2[Widget]
