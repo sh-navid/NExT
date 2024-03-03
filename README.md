@@ -9,14 +9,14 @@ graph TD;
     Audio-->String;
     Video-->String;
     Text-->String;
-    String-->Tokenize;
-    Tokenize-->Decision;
-    Knowledge-->Decision;
-    Decision-->Knowledge;
-    Decision-->Plugin;
-    Decision-->Driver;
-    Decision-->Luncher;
-    Decision-->Widget;
+        String-->Tokenize;
+        Tokenize-->Decision;
+        Knowledge-->Decision;
+            Decision-->Knowledge;
+            Decision-->Plugin;
+            Decision-->Driver;
+            Decision-->Luncher;
+            Decision-->Widget;
 ```
 
 ## Plugins
