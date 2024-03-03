@@ -7,15 +7,15 @@ Digital personal assistant
 ```mermaid
 flowchart LR
 
-A1[Text]  -->|| B(Round)
-A2[Video] -->|| B(Round)
-A3[Audio] -->|| B(Round)
+A1[Text]  -->| | B(Round)
+A2[Video] -->| | B(Round)
+A3[Audio] -->| | B(Round)
 
 B --> C{Decision}
-C -->|| D1[Luncher]
-C -->|| D2[Widget]
-C -->|| D3[Plugin]
-C -->|| D4[Driver]
+C -->| | D1[Luncher]
+C -->| | D2[Widget]
+C -->| | D3[Plugin]
+C -->| | D4[Driver]
 ```
 
 ## Plugins
