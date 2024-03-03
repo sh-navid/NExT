@@ -14,7 +14,7 @@ A3[Audio] -->| | B(String)
 B -->| | T(Tokenize)
 
 T --> L[ML engine]
-L --> M [Models]
+L --> M[Models]
 
 M --> I
 T --> I[Identifier]
