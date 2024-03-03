@@ -11,8 +11,8 @@ A1[Text]  -->| | B(String)
 A2[Video] -->| | B(String)
 A3[Audio] -->| | B(String)
 
-B --> T[Tokenize]
-B --> T[Tokenize]
+B -->| | T[Tokenize]
+B -->| | T[Tokenize]
 
 T --> L[ML engine]
 
