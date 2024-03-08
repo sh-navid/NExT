@@ -26,6 +26,8 @@ C -->| | D3[Plugin]
 C -->| | D4[Driver]
 ```
 
+## Engines
+
 ## Plugins
   - Firewall
   - Chatbot
@@ -36,6 +38,8 @@ C -->| | D4[Driver]
 ## Lunchers
   - UI
   - Map
+
+## Widgets
 
 # Usefull Links
   - NLP
