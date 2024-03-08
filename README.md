@@ -4,17 +4,15 @@ Digital personal assistant
 > [!Tip]
 > Test tip
 
-```mermaid
-flowchart LR
-
-A1[Text]  -->| | B(String)
-A2[Video] -->| | B(String)
-A3[Audio] -->| | B(String)
-
-B -->| | T(Tokenize)
-
-T --> L[ML engine]
-L --> M[Models]
+## Platforms
+- [ ] Desktop
+  - [ ] Windows
+  - [x] Linux
+  - [ ] Mac
+- [ ] Web
+- [ ] Mobile
+  - [ ] Android
+  - [ ] iOS
 
 M --> I
 T --> I[Identifier]
