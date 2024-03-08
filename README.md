@@ -42,10 +42,12 @@ C -->| | D4[Driver]
   - Firewall
 
 ## Drivers 
-  - Map
-  - Player
-  - Contacts
-  - Notes
+  - [ ] Map
+  - [ ] Player
+  - [ ] Contacts
+  - [ ] Notes
+  - [ ] Calculator
+  - [ ] Calendar
 
 # Usefull Links
   - NLP
