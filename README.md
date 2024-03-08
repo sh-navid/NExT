@@ -36,6 +36,7 @@ C -->| | D4[Driver]
 ## Engines
   - Chatbot
   - Tokenizer
+  - Visualizer
 
 ## Plugins
   - Firewall
