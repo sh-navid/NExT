@@ -1,9 +1,6 @@
 # NExT
 Digital personal assistant
 
-> [!Tip]
-> Test tip
-
 ## Platforms
 - [ ] Desktop
   - [ ] Windows
@@ -37,19 +34,17 @@ C -->| | D4[Driver]
 ```
 
 ## Engines
+  - Chatbot
+  - Tokenizer
 
 ## Plugins
   - Firewall
-  - Chatbot
 
 ## Drivers 
   - Map
-
-## Lunchers
-  - UI
-  - Map
-
-## Widgets
+  - Player
+  - Contacts
+  - Notes
 
 # Usefull Links
   - NLP
