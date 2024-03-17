@@ -1,6 +1,8 @@
 # NExT
 Digital personal assistant
 
+![](./assets/logo.png)
+
 ## Platforms
 - [ ] Desktop
   - [ ] Windows
