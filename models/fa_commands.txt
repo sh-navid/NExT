@@ -1,0 +1,23 @@
+// This is just some sample data
+// We then map this data on a network to train, test and use
+
+// Ignore List
+! را
+! رو
+! بهم
+! به
+! یه
+! برام
+
+
+نقشه رو برام باز کن
+--Open:Map
+
+مپ رو باز کن
+--Open:Map
+
+مپ رو برام باز کن
+--Open:Map
+
+پمپ بنزین پیدا کن
+--Open:Map>Find:GasStation
