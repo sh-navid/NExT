@@ -3,16 +3,6 @@
 
 **Digital Personal Assistant**
 
-## Platforms
-- [ ] Desktop
-  - [ ] Windows
-  - [x] Linux
-  - [ ] Mac
-- [ ] Web
-- [ ] Mobile
-  - [ ] Android
-  - [ ] iOS
-
 ```mermaid
 flowchart LR
 
