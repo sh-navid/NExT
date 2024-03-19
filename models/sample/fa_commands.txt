@@ -1,7 +1,7 @@
 // This is just some sample data
 // We then map this data on a network to train, test and use
 
----CMD:MAP---
+--MAP
 مپ باز کن
 برو *
 برو به *
@@ -13,18 +13,18 @@
 ادرس * رو بهم نشون بده
 مکان * رو بهم نشون بده
 
----CMD:PLAYER---
+--PLAYER
 اهنگ پخش کن
 موزیک پلیر رو باز کن
 
----CMD:NOTE---
+--NOTE
 یه متن باز کن
 نوت رو باز کن
 یه متن برام بنویس
 یه نوت برام باز کن
 نوتپد رو برام باز کن
 
----CMD:GREETING---
+--GREETING
 سلام
 درود
 خداحافظ

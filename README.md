@@ -1,7 +1,7 @@
-# NExT
-Digital personal assistant
 
 ![](./assets/logo.png)
+
+**Digital Personal Assistant**
 
 ## Platforms
 - [ ] Desktop
